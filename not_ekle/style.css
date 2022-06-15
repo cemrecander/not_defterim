@@ -1,0 +1,14 @@
+body {
+    background-color: #f5ebe0 !important;
+    padding-top: 60px;
+}
+
+div.ortala {
+    color: white;
+    display: flex;
+    align-items: center;
+}
+
+nav {
+    background-color: #6c757d;
+}
